@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Blog</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+    header, footer { background: #333; color: white; text-align: center; padding: 1rem; }
+    .container { max-width: 800px; margin: 20px auto; padding: 20px; background: white; }
+    .post { margin-bottom: 20px; }
+    .post h2 { color: #333; }
+  </style>
+</head>
+<body>
+  <header><h1>SOMA SERIVE</h1></header>
+  <div class="container">
+    <div class="post">
+      <h2>WOMEN'S PROTACTION SITE</h2>
+	   <img src="file:///E:/YOUTUBE%20STORES/DALL%C2%B7E%202025-01-04%2012.54.27%20-%20An%20artistic%20depiction%20of%20Lord%20Krishna%20as%20a%20divine%20infant%20in%20Indian%20mythology,%20killing%20the%20demoness%20Putana.%20The%20scene%20is%20set%20in%20a%20traditional%20Indian%20vi.webp" alt="GANESH" style="max-width:100%; height:auto;">
+	  
+      <p>THIS IS MY FIRST BLOCK  TEXT.</p>
+	  <a href="https://example.com" target="_blank">
+    <button style="background-color: #007BFF; color: white; border: none; padding: 10px 15px; font-size: 16px; cursor: pointer;">
+      Read More
+    </button>
+  </a>
+	 <a href="https://sumcraters.blogspot.com/" target="_blank">
+	 <button>Learn More</button>
+  <button>Visit Website</button>
+  <button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; font-size: 16px; cursor: pointer;">
+  Click Me
+</button>
+</a>
+ <script>
+    function showDescription() {
+      const desc = document.getElementById('description');
+      desc.style.display = 'block'; // Show the description
+    }
+  </script>
+
+    </div>
+    <div class="post">
+      <h2>MEN'S ARE HAND SOME</h2>
+      <p>THIS IS MY SEND POST.</p>
+    </div>
+  </div>
+  <footer>&copy; 2025 My Blog</footer>
+</body>
+</html>
